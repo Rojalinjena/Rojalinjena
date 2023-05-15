@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, My self Rojalin Jena</h1>
-<h3 align="center">A passionate Data analytics from India</h3>
+<h3 align="center">I'm an aspiring data analytics who wishes to solve problems in the world by means of data </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rojalinjena&label=Profile%20views&color=0e75b6&style=flat" alt="rojalinjena" /> </p>
 
